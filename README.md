@@ -1,0 +1,2 @@
+# shopping-cart
+This is an open source sample shopping cart application with a payment gateway. The application mainly implementing on MERN stack - MongoDB , ExpressJs, ReactJs and NodeJs. The features in this applications are user can upload any selling items you like including with the price , availability , quantity and its description. Apart from that there is a payment gateway to pay what you purchase.   
